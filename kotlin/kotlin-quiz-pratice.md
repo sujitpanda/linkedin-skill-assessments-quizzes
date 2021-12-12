@@ -243,8 +243,10 @@ class Manager : Employee()
 
 - [ ] `change()`
 - [ ] `modify()`
-- [ ] `set()`
+- [X] `set()`
 - [ ] `assign()`
+
+[Reference](https://stackoverflow.com/questions/34608551/in-kotlin-how-do-you-modify-the-contents-of-a-list-while-iterating)
 
 #### Q24. From the Supervisor subclass, how do you call the Employee class's display() method?
 
