@@ -217,8 +217,10 @@ val list2 = (80..100).toList().filter(_____)
 
 - [ ] an anonymous object
 - [ ] a static property
-- [ ] a companion object
+- [X] a companion object
 - [ ] a backing field
+
+[Reference](https://blog.mindorks.com/what-is-the-equivalent-of-java-static-methods-in-kotlin)
 
 #### Q21. Your code need to try casting an object. If the cast is not possible, you do not want an exception generated, instead you want null to be assigned. Which operator can safely cast a value?
 
