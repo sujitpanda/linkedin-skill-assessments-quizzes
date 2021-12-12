@@ -182,7 +182,9 @@
 - [ ] You cannot do this in Eclipse.
 - [ ] Select the Editor tab for the XML file and then click the Design tab at the bottom of the editor window.
 - [ ] Double-click the open tab in the Editor.
-- [ ] In the Package Explorer, right-click the file and select Open With > Desgign Editor.
+- [X] In the Package Explorer, right-click the file and select Open With > Desgign Editor.
+
+[Reference](https://stackoverflow.com/questions/4590119/how-do-i-view-xml-files-with-simple-syntax-highlighting)
 
 #### Q27. How can you view all the commits for a single file?
 
