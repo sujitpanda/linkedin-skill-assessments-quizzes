@@ -147,10 +147,12 @@
 
 #### Q20. You're working with a pen tablet and find that using the Ellipse, Rectangle, and Polygon tools to create objects is somewhat awkward. Which tool would allow you to draw, move, and edit these shapes with intuitive gestures?
 
-- [ ] the Smooth tool
+- [X] the Smooth tool
 - [ ] the Shape Builder tool
 - [ ] the Pencil tool
 - [ ] the Shaper tool
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q21. When using the Live Paint Bucket tool to fill artwork with colors, you are unable to fill some areas due to the size of gaps between paths. What can you do in the Gap Options dialog box to fix this problem?
 
