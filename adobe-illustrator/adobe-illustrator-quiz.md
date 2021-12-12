@@ -107,8 +107,10 @@
 
 - [ ] Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0
 - [ ] Turn on Smart Guides and drag each object until it snaps to the one next to it.
-- [ ] Choose the Move command and in the dialog box set the Distance value to 0.
+- [X] Choose the Move command and in the dialog box set the Distance value to 0.
 - [ ] Select the objects with the Selection tool, then drag from the side of the selection bounding box until the objects snap together.
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q15. You select a new color in the Color Picker and want to see several variations in different shades and tints. Which feature allows you to do this?
 
