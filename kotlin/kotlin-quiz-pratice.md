@@ -35,8 +35,9 @@ class Airplane(private val name: String) : Aircraft() {
 - [ ] Only abstract classes are inheritable by subclasses
 - [ ] Only abstract classes can inherit from multiple superclasses
 - [ ] Only abstract classes can have abstract methods
-- [ ] Only abstract classes can store state
+- [X] Only abstract classes can store state
 
+[Reference](https://stackoverflow.com/questions/22591499/what-are-the-differences-between-abstract-classes-and-interfaces-in-java-8)
 
 #### Q4. Inside an extension function, what is the name of the variable that corresponds to the receiver object
 
