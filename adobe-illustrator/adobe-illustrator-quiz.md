@@ -36,10 +36,12 @@
 
 `A map of California has a light beige main color and a small dark shadow.`
 
-- [ ] 3D Extrude & Bevel
+- [X] 3D Extrude & Bevel
 - [ ] Offset Path
 - [ ] 3D Rotate
 - [ ] 3D Revolve
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q6. When multiple objects are selected, how do you deselect just one of them?
 
