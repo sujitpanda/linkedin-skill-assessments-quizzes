@@ -251,7 +251,9 @@
 - [ ] With nothing selected, click the More Tools button in the Properties panel.
 - [ ] Click the ellipsis at the bottom of the toolbar.
 - [ ] Turn on the tool in the preferences.
-- [ ] In the Window menu, click Window > Tools.
+- [X] In the Window menu, click Window > Tools.
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q34. The four flowers shown in the image below were created by applying an art brush to paths of different lengths. How can you prevent the distortion seen in flowers 2, 3, and 4 while keeping the size of the leaves and the width of the stem the same in all the flowers?
 
