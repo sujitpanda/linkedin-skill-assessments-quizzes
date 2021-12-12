@@ -431,9 +431,11 @@ fun getAttribute(attribute: Attribute) : String {
 #### Q39. You would like to know each time a class property is updated. Which code snippet shows a built-in delegated property that can accomplish this?
 
 - [ ] `Delegates.watcher()`
-- [ ] `Delegates.observable()`
+- [X] `Delegates.observable()`
 - [ ] `Delegates.rx()`
 - [ ] `Delegates.observer()`
+
+[Reference](https://kotlinlang.org/docs/delegated-properties.html#observable-properties)
 
 #### Q40. Why doesn't this code compile?
 
