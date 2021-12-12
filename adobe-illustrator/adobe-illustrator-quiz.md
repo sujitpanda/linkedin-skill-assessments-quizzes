@@ -276,10 +276,12 @@
 
 #### Q37. When using the Image Trace feature, which option has the most impact on the number of paths that are created in the tracing result?
 
-- [x] Corners
-- [ ] Noise
+- [ ] Corners
+- [X] Noise
 - [ ] Paths
 - [ ] Colors
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/0
 
 #### Q38. If you want to create an image map, which panel would you use to make an object into a clickable region?
 
