@@ -376,7 +376,7 @@
 
 #### Q53. It is September, and you want to evaluate the most popular page on your site for the month of August. What first steps would you take?
 
-- [x] 1. Set Date Range to Last 30 Days. 2. Visit Behavior > Site Content > All Pages.
+- [ ] 1. Set Date Range to Last 30 Days. 2. Visit Behavior > Site Content > All Pages.
 - [ ] 1. Set Date Range to Last 30 Days. 2. Visit Behavior > Site Content > Content Drilldown.
 - [ ] 1. Set Date Range to Last Month. 2. Visit Behavior > Site Content > Content Drilldown.
 - [x] 1. Set Date Range to Last Month. 2. Visit Behavior > Site Content > All Pages.
