@@ -52,8 +52,10 @@
 
 - [ ] It applies a metal render.
 - [ ] It fixes bodies.
-- [ ] It checks a body's continuity.
+- [X] It checks a body's continuity.
 - [ ] It splits bodies apart.
+
+[reference](https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/AutoCAD-Core/files/GUID-82E5989F-C943-49A6-A6C6-834B81CC203B-htm.html)
 
 #### Q7. Which command creates a plane at the midpoint between two faces or work planes?
 
