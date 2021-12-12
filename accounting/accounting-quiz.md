@@ -123,8 +123,10 @@
 
 - [ ] custody, payment, and recording
 - [ ] authorization, custody, and execution
-- [ ] authorization, custody, and recording
+- [X] authorization, custody, and recording
 - [ ] custody, execution, and payment
+
+[reference](https://quizlet.com/168009236/exam-3-practice-flash-cards/)
 
 #### Q19. What does the degree of operating leverage represent?
 
