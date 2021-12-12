@@ -369,7 +369,10 @@ class UserService{
 - [ ] `==` determines if two primitive types are identical. `===` determines if two objects are identical
 - [ ] `==` determines if two references point to the same object. `===` determines if two objects have the same value
 - [ ] `==` determines if two objects have the same value. `===` determines if two strings have the same value
-- [ ] `==` determines if two objects have the same value. `===` determines if two references point to the same object
+- [X] `==` determines if two objects have the same value. `===` determines if two references point to the same object
+
+[Reference](https://stackoverflow.com/questions/51340603/what-is-difference-between-and-in-kotlin)
+[Reference](https://agrawalsuneet.github.io/blogs/equality-in-kotlin/)
 
 #### Q35. Which snippet correctly shows setting the variable max to whichever variable holds the greatest value, a or b, using idiomatic Kotlin?
 
