@@ -308,10 +308,12 @@ class Person
 
 #### Q28. Which is the proper way to declare a singleton named DatabaseManager?
 
-- [ ] `object DatabaseManager {}` 
+- [X] `object DatabaseManager {}` 
 - [ ] `singleton DatabaseManager {}`
 - [ ] `static class DatabaseManager {}`
 - [ ] `data class DatabaseManager {}`
+
+[Reference](https://www.geeksforgeeks.org/singleton-class-in-kotlin/)
 
 #### Q29. In order to subclass the Person class, what is one thing you must do?
 
