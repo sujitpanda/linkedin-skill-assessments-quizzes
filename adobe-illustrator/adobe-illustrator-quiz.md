@@ -133,10 +133,12 @@
 
 #### Q18. How can you ensure that proper nouns are not hyphenated in the document you're working on?
 
-- [ ] Turn off Hyphenate Capitalized Words in the Paragraph panel.
+- [X] Turn off Hyphenate Capitalized Words in the Paragraph panel.
 - [ ] Select Justify All Lines in the Paragraph panel.
 - [ ] Decrease the Word Spacing in the justification options.
 - [ ] Increase the Hyphenation Zone value in the Paragraph panel so it is greater than the point size of the text.
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q19. How could you quickly change all the hexagons to triangles in the image below?
 
