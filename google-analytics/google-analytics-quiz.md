@@ -160,7 +160,7 @@
 - [ ] Hit: Download // Event: Sample Tone // Content: Music
 - [ ] Category: Music // Action: Download // Label: Sample Tone
 - [ ] Category: Download // Event: Music // Label: Sample Tone
-- [ ] Hit: Music // Event: Download //Content: Sample Tone
+- [X] Hit: Music // Event: Download //Content: Sample Tone
 
 #### Q23. You want to classify people who join your newsletter with a custom dimension for "Newsletter Subscribers." What is the appropriate scope to apply to this custom dimension?
 
