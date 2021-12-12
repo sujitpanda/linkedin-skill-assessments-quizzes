@@ -351,9 +351,11 @@
 #### Q47. Why would you choose Enable Guides for 9-slice scaling when creating a symbol?
 
 - [ ] to allow portions of the symbol to be exported as separate graphics
-- [ ] to ensure that each instance of the symbol always maintains its original proportions when scaled
+- [X] to ensure that each instance of the symbol always maintains its original proportions when scaled
 - [ ] to include custom guides with the symbol so each instance is placed in the same position relative to the artboard
 - [ ] to allow instances of the symbol to be scaled without distorting the corners
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q48. What can you do in order to edit text in just one placed instance of a symbol?
 
