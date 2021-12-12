@@ -120,7 +120,9 @@
 
 #### Q16. What translator converts the screen toolpath into language the CNC machine understands?
 
-- [ ] a post processor
+- [X] a post processor
 - [ ] G-code
 - [ ] NC-code
 - [ ] a code processor
+
+[refeence](https://help.autodesk.com/view/fusion360/ENU/?guid=GUIDDE2C6200-5F85-45FA-9AE6-D66205125BDE)
