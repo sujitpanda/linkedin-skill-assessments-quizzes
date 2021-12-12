@@ -353,9 +353,11 @@ class UserService{
 #### Q32. Which is the correct declaration of an integer array with a size of 5?
 
 - [ ] `val arrs[5]: Int`
-- [ ] `val arrs = IntArray(5)`
+- [X] `val arrs = IntArray(5)`
 - [ ] `val arrs: Int[5]`
 - [ ] `val arrs = Array<Int>(5)`
+
+[Reference](https://www.techiedelight.com/declare-initialize-array-kotlin/)
 
 #### Q33. You have created a class that should be visible only to the other code in its module. Which modifier do you use?
 
