@@ -371,10 +371,12 @@
 
 #### Q50. You have drawn objects on planes using the perspective grid, but now want to change the angles of the grid to new vanishing points and have the artwork update automatically. What option should be enabled to achieve this result?
 
-- [ ] Enable Perspective Warp.
+- [X] Enable Perspective Warp.
 - [ ] Enable Viewing Angle in the Define Grid dialog box.
 - [ ] Choose View > Perspective Grid > Lock Station Point
 - [ ] Enable 3D Transform.
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q51. What happens when you assign a different color profile to an image?
 
