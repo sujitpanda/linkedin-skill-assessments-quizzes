@@ -256,9 +256,11 @@
 #### Q34. The four flowers shown in the image below were created by applying an art brush to paths of different lengths. How can you prevent the distortion seen in flowers 2, 3, and 4 while keeping the size of the leaves and the width of the stem the same in all the flowers?
 
 - [ ] Open the Art Brush Options dialog box and select Scale Proportionally.
-- [ ] Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.
+- [X] Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.
 - [ ] Use the Pen tool to add points at the top and bottom of the stem, and then drag the points with the Direct Selection tool to remove the distortion.
 - [ ] Open the Art Brush Options dialog box, select Stretch Between Guides, and then place the guides so only the stem is between them.
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q35. When printing an image with many out-of-gamut colors, which rendering intent would you choose to best preserve the visual relationship between colors—not the specific color values?
 
