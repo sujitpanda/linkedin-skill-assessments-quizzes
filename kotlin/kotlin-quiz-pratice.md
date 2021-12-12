@@ -719,10 +719,12 @@ fun main() {
 
 #### Q60. Your class has a property name that gets assigned later. You do not want it to be a nullable type. Using a delegate, how should you declare it?
 
-- [ ] `lateinit var name: String` // lateinit is modifier not delegate
+- [X] `lateinit var name: String` // lateinit is modifier not delegate
 - [ ] `var name: String by lazy`
 - [ ] `var name: String by Delegates.notNull()`
 - [ ] `var name: String? = null`
+
+[Reference](https://stackoverflow.com/questions/36623177/property-initialization-using-by-lazy-vs-lateinit)
 
 #### Q61. You want to know each time a class property is updated. If the new value is not within range, you want to stop the update. Which code snippet shows a built-in delegated property that can accomplish this?
 
