@@ -458,7 +458,9 @@ fun main(){
 - [ ] `val name = null`
 - [ ] `var name: String`
 - [ ] `val name: String`
-- [ ] `val name: String? = null`
+- [X] `val name: String? = null`
+
+[Reference](https://stackoverflow.com/questions/53333293/do-we-need-to-initialize-nullable-fields-in-kotlin)
 
 #### Q42. Which line of code is a shorter, more idiomatic version of the displayed snippet?
 
