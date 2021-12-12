@@ -733,10 +733,12 @@ fun main() {
 
 #### Q62. Which line of code shows how to call a Fibonacci function, bypass the first three elements, grab the next six, and sort the elements in descending order?
 
-- [ ] `val sorted = fibonacci().skip(3).take(6).sortedDescending().toList()`
+- [X] `val sorted = fibonacci().skip(3).take(6).sortedDescending().toList()`
 - [ ] `val sorted = fibonacci().skip(3).take(6).sortedByDescending().toList()`
 - [ ] `val sorted = fibonacci().skip(3).limit(6).sortedByDescending().toList()`
 - [ ] `val sorted = fibonacci().drop(3).take(6).sortedDescending().toList()` 
+
+[Reference](https://stackoverflow.com/questions/56571477/what-is-the-difference-between-sorteddescending-and-sortedbydescending)
 
 #### Q63. You have two arrays, a and b. Which line combines a and b as a list containing the contents of both?
 
