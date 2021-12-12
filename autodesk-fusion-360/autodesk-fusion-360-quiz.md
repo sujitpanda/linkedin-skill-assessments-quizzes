@@ -39,7 +39,9 @@
 - [ ] frictionless
 - [ ] prescribed displacement
 - [ ] pin
-- [ ] fixed
+- [X] fixed
+
+[reference](http://support.ptc.com/help/creo/creo_pma/korean/index.html#page/simulate/simulate/modstr/constrnt/reference/settings.html)
 
 #### Q5. In the CAM workspace, which strategy removes a part's interior cavity?
 
