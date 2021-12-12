@@ -109,7 +109,9 @@
 - [ ] DWG file
 - [ ] CSV file
 - [ ] STEP file
-- [ ] PDF file
+- [X] PDF file
+
+[Reference](https://fileinfo.com/filetypes/cad)
 
 #### Q15. What command do you use to understand the relationship between multiple joints?
 
