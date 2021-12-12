@@ -171,9 +171,11 @@
 ![Overlapping circles](images/009.png?raw=true)
 
 - [ ] The paths do not have a fill attribute.
-- [ ] Only one of the paths is selected, but both need to be selected.
+- [X] Only one of the paths is selected, but both need to be selected.
 - [ ] One of the paths is selected but the Join tool works only with unselected paths.
 - [ ] Endpoints need to be selected in both paths before they can be trimmed and joined.
+
+[Reference](https://quizlet.com/582102615/llustrator-i-flash-cards/)
 
 #### Q24. Which colorization method should you choose when using an art, scatter, or pattern brush to apply a spot color?
 
