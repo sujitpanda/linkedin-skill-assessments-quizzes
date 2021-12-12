@@ -27,10 +27,12 @@
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-- [ ] clicking or dragging the first point in the path
+- [X] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
+
+[Reference](https://helpx.adobe.com/photoshop/using/drawing-pen-tools.html)
 
 #### Q5. Which effect was used to give depth to the outline of California below?
 
