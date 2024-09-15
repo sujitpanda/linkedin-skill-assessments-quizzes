@@ -363,10 +363,12 @@ class UserService{
 
 #### Q33. You have created a class that should be visible only to the other code in its module. Which modifier do you use?
 
-- [ ] `internal` 
+- [X] `internal` 
 - [ ] `private`
 - [ ] `public`
 - [ ] `protected`
+
+[Reference](https://www.geeksforgeeks.org/kotlin-visibility-modifiers/)
 
 #### Q34. Kotlin has two equality operators, == and ===. What is the difference?
 
