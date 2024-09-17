@@ -65,9 +65,11 @@ Kotlin Playgorund : https://pl.kotl.in/XczAMAhFm
 #### Q6. What is the entry point for a Kotlin application?
 
 - [ ] `fun static main(){}`
-- [ ] `fun main(){}`
+- [X] `fun main(){}`
 - [ ] `fun Main(){}`
 - [ ] `public static void main(){}`
+
+[Reference](https://www.javatpoint.com/kotlin-first-program-concept)
 
 #### Q7. You are writing a console app in Kotlin that processes test entered by the user. If the user enters an empty string, the program exits. Which kind of loop would work best for this app? Keep in mind that the loop is entered at least once
 
