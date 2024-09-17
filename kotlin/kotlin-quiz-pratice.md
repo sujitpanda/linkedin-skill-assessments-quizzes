@@ -539,12 +539,14 @@ for (value in 1..5){
 - [ ] `for( Pair(ndx, value) in 1..20 ){`
 - [ ] `for( (ndx, value) in *(1..20) ){`
 
-#### Q47. The Kotlin .. operator can be written as which function?
+#### Q47. The Kotlin `a..b` operator can be written as which function?
 
 - [ ] `a.from(b)`
 - [ ] `a.range(b)`
-- [ ] `a.rangeTo(b)` 
+- [X] `a.rangeTo(b)` 
 - [ ] `a.to(b)`
+
+[Reference](https://kotlinlang.org/docs/operator-overloading.html#infix-calls-for-named-functions)
 
 #### Q48. How can you retrieve the value of the property codeName without referring to it by name or destructuring?
 
