@@ -768,9 +768,11 @@ println("length of First Name = ${firstName!!.length}")
 #### Q65. What is the execution order of init blocks and properties during initialization?
 
 - [ ] All of the properties are executed in order of appearance, and then the init blocks are executed.
-- [ ] The init blocks and properties are executed in the same order they appear in the code.
+- [X] The init blocks and properties are executed in the same order they appear in the code.
 - [ ] All of the init blocks are executed in order of appearance, and then the properties are executed.
 - [ ] The order of execution is not guaranteed, so code should be written accordingly.
+
+[Reference](https://stackoverflow.com/questions/47447842/init-block-position-in-class-in-kotlin)
 
 #### Q66. Both const and @JvmField create constants. What can @JvmField do that const cannot?
 
