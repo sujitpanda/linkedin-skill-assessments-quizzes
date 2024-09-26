@@ -43,9 +43,11 @@ Kotlin Playgorund : https://pl.kotl.in/pJhaSl0Nh
 #### Q4. Inside an extension function, what is the name of the variable that corresponds to the receiver object
 
 - [ ] The variable is named **it**
-- [ ] The variable is named **this**
+- [X] The variable is named **this**
 - [ ] The variable is named **receiver**
 - [ ] The variable is named **default**
+
+[Reference](https://kotlinlang.org/docs/extensions.html#extension-functions)
 
 #### Q5. Your application has an **add** function. How could you use its **invoke** methods and display the results?
 
