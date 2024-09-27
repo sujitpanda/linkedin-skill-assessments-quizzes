@@ -226,10 +226,12 @@ val list2 = (80..100).toList().filter(_____)
 
 #### Q21. Your code need to try casting an object. If the cast is not possible, you do not want an exception generated, instead you want null to be assigned. Which operator can safely cast a value?
 
-- [ ] `as?`
+- [X] `as?`
 - [ ] `??`
 - [ ] `is`
 - [ ] `as`
+
+Reference](https://www.javatpoint.com/kotlin-unsafe-and-safe-cast-operator)
 
 #### Q22. Kotlin will not compile this code snippet. What is wrong?
 
